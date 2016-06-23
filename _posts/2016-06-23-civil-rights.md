@@ -9,8 +9,8 @@ description: >-
   to Star Trek then at test time I was golden. Whoever the bad guys were, in my
   mind they were the Ramulans and of course you know who the good guys were if
   you were a Trek fan.
-dateModified: '2016-06-23T19:12:54.598Z'
-datePublished: '2016-06-23T19:13:00.029Z'
+dateModified: '2016-06-23T19:14:33.713Z'
+datePublished: '2016-06-23T19:34:42.344Z'
 title: Civil Rights
 author: []
 isBasedOnUrl: >-
