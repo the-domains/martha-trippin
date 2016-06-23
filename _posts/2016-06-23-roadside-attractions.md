@@ -4,15 +4,15 @@ description: >-
   are what make a road trip AWESOME!! Without some quirky unexpected fun the
   long days on the road would be a bore. We just can’t pass them up we are a
   sucker everytime.
-dateModified: '2016-06-23T19:43:53.147Z'
-datePublished: '2016-06-23T19:43:53.739Z'
+dateModified: '2016-06-23T19:42:44.532Z'
+datePublished: '2016-06-23T19:43:14.482Z'
 title: Roadside Attractions!!!
 author:
   - name: Martha Yim
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b46ca03-0a5c-456b-b575-899df0e27ef0.jpg
+starred: false
 sourcePath: _posts/2016-06-23-roadside-attractions.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
